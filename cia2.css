@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    background: linear-gradient(to right, #304352, #d7d2cc); 
+  }
+.meee {
+    background:linear-gradient(to right, #2c3e50, #bdc3c7);;
+    width: 400px;
+    height: 500px;
+padding:30px;
+  }
+
+.des
+{
+    position:relative;
+top:100px;
+width:40px;
+height:40px;
+}
